@@ -8,7 +8,7 @@ description: UC Berkeley EECS and Business Administration, IDEO CoLab Fellow, pr
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/grace.png
+picture: assets/images/grace.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -34,7 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+linkedin: grace-lam-95789a62
+facebook: gracelam111
 twitter: graceyraspberry
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -47,7 +48,7 @@ github: graceyraspberry
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: https://gracelam-77186.medium.com/
+medium: gracelam-77186
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: gracelam@berkeley.edu

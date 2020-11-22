@@ -42,6 +42,8 @@ I’ve learned many different ways of solving problems through my various roles:
 
 <ul>
 	<li><a href="https://github.com/graceyraspberry/Infocamp2020data">Classroom sentiment with Piazza</a></li>
+	<li><a href="https://gracelam-77186.medium.com/the-story-of-covid-19-told-by-your-immune-system-1ff188334196">COVID-19 Data Analysis</a></li>
+	<li><a href="https://github.com/NVIDIA-AI-IOT/turtlebot3">NVIDIA indoor office robot</a></li>
 	<li><a href="https://github.com/graceyraspberry/rna-seq">RNA sequencing yeast</a></li>
-	<li><a href="https://github.com/NVIDIA-AI-IOT/turtlebot3">NVIDIA SLAM robot</a></li>
+	<li><a href="https://medium.com/the-coleman-fung-institute/ihackhealth-uc-berkeley-and-ucsf-hold-inaugural-cross-bay-appathon-event-5abccdc596bd">AR for detecting stroke</a></li>
 </ul>
